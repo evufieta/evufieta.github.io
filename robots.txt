@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evufieta.github.io/Igt/sitemap_index.txt
+Sitemap: https://evufieta.github.io/KkO/sitemap_index.txt
+Sitemap: https://evufieta.github.io/Peq/sitemap_index.txt
+Sitemap: https://evufieta.github.io/mQD/sitemap_index.txt
